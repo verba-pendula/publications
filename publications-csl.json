@@ -1,0 +1,119 @@
+[
+	{
+		"id": "http://zotero.org/users/959956/items/NHL8KXK6",
+		"type": "speech",
+		"abstract": "Slides deck for the paper presented at the PHRAME (Phraseological complexity measures in learner italian) conference, held in Perugia on 27th-28th November 2023. The paper compares the behavior of different lexical complexity measures on real and synthetic texts to assess whether the measures are capturing Kolmogorov or Gell-Mann complexity.",
+		"language": "eng",
+		"note": "DOI: 10.5281/zenodo.10276248",
+		"title": "Between order and disorder: an ecological view of lexical complexity measures",
+		"title-short": "Between order and disorder",
+		"URL": "https://zenodo.org/records/10276248",
+		"author": [
+			{
+				"family": "Bienati",
+				"given": "Arianna"
+			},
+			{
+				"family": "Brasolin",
+				"given": "Paolo"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					1,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2023",
+					11,
+					28
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/959956/items/VDHY8Q82",
+		"type": "speech",
+		"abstract": "Slides deck for the work presented at EuroSLA33 (the 33rd Conference of the European Second Language Association), held in Montpellier on 3rd-6th July 2024. The paper compares the behavior of different lexical complexity measures on real and synthetic texts to assess whether the measures are capturing Kolmogorov or Gell-Mann complexity.",
+		"language": "eng",
+		"note": "DOI: 10.5281/zenodo.13128955",
+		"title": "Between order and disorder: an information-theoretic approach to linguistic complexity",
+		"title-short": "Between order and disorder",
+		"URL": "https://zenodo.org/records/13128955",
+		"author": [
+			{
+				"family": "Brasolin",
+				"given": "Paolo"
+			},
+			{
+				"family": "Bienati",
+				"given": "Arianna"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					1,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2024",
+					6,
+					24
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/959956/items/YH5CNUR6",
+		"type": "speech",
+		"abstract": "Slides deck for the work presented at SLI2024 (LVII Congresso internazionale della Società di Linguistica Italiana), held in Catania on 19th-21st September 2024.",
+		"note": "DOI: 10.5281/zenodo.13762863",
+		"title": "Il potere in parole povere: un'analisi diacronica corpus-based sulla semplificazione dell'italiano politico repubblicano",
+		"title-short": "Il potere in parole povere",
+		"URL": "https://zenodo.org/records/13762863",
+		"author": [
+			{
+				"family": "Bienati",
+				"given": "Arianna"
+			},
+			{
+				"family": "Brasolin",
+				"given": "Paolo"
+			},
+			{
+				"family": "Cominetti",
+				"given": "Federica"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					1,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2024",
+					9,
+					19
+				]
+			]
+		}
+	}
+]
