@@ -115,5 +115,157 @@
 				]
 			]
 		}
+	},
+	{
+		"id": "http://zotero.org/users/959956/items/K6SI487F",
+		"type": "dataset",
+		"abstract": "Measures dataset for the work presented at LCR 2024 (the Learner Corpus Research Conference), held in Tartu on 26th-28th September 2024.",
+		"DOI": "10.5281/zenodo.13840226",
+		"publisher": "Zenodo",
+		"source": "Zenodo",
+		"title": "Complexity or complexities? A simulation study on lexical complexity in expert and learner texts through the lens of information theory",
+		"title-short": "Complexity or complexities?",
+		"URL": "https://zenodo.org/records/13840226",
+		"author": [
+			{
+				"family": "Brasolin",
+				"given": "Paolo"
+			},
+			{
+				"family": "Bienati",
+				"given": "Arianna"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					1,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2024",
+					9,
+					26
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/959956/items/V9B2EUNM",
+		"type": "software",
+		"abstract": "Analysis notebook for the work presented at LCR 2024 (the Learner Corpus Research Conference), held in Tartu on 26th-28th September 2024.",
+		"note": "DOI: 10.5281/zenodo.13840944",
+		"source": "Zenodo",
+		"title": "Complexity or complexities? A simulation study on lexical complexity in expert and learner texts through the lens of information theory",
+		"title-short": "Complexity or complexities?",
+		"URL": "https://zenodo.org/records/13840944",
+		"author": [
+			{
+				"family": "Brasolin",
+				"given": "Paolo"
+			},
+			{
+				"family": "Bienati",
+				"given": "Arianna"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					1,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2024",
+					9,
+					26
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/959956/items/NCYWB9IS",
+		"type": "software",
+		"abstract": "Data pipeline for the work presented at LCR 2024 (the Learner Corpus Research Conference), held in Tartu on 26th-28th September 2024.",
+		"note": "DOI: 10.5281/zenodo.13840216",
+		"source": "Zenodo",
+		"title": "Complexity or complexities? A simulation study on lexical complexity in expert and learner texts through the lens of information theory",
+		"title-short": "Complexity or complexities?",
+		"URL": "https://zenodo.org/records/13840216",
+		"author": [
+			{
+				"family": "Brasolin",
+				"given": "Paolo"
+			},
+			{
+				"family": "Bienati",
+				"given": "Arianna"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					1,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2024",
+					9,
+					26
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/959956/items/TB48LIK4",
+		"type": "speech",
+		"abstract": "Slides deck for the work presented at LCR 2024 (the Learner Corpus Research Conference), held in Tartu on 26th-28th September 2024.",
+		"note": "DOI: 10.5281/zenodo.13840191",
+		"title": "Complexity or complexities? A simulation study on lexical complexity in expert and learner texts through the lens of information theory",
+		"title-short": "Complexity or complexities?",
+		"URL": "https://zenodo.org/records/13840191",
+		"author": [
+			{
+				"family": "Brasolin",
+				"given": "Paolo"
+			},
+			{
+				"family": "Bienati",
+				"given": "Arianna"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					1,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2024",
+					9,
+					26
+				]
+			]
+		}
 	}
 ]
